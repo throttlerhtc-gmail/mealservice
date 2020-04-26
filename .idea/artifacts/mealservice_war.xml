@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mealservice:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>mealservice</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="mealservice.war">
+      <element id="artifact" artifact-name="mealservice:war exploded" />
+    </root>
+  </artifact>
+</component>
