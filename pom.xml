@@ -34,7 +34,7 @@
 
         <!-- Hibernate -->
         <hibernate.version>5.4.7.Final</hibernate.version>
-        <hibernate-validator.version>6.0.17.Final</hibernate-validator.version>
+        <hibernate-validator.version>6.0.20.Final</hibernate-validator.version>
         <!--Tools-->
         <ehcache.version>3.8.1</ehcache.version>
 
